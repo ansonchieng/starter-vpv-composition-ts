@@ -23,7 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
-pnpm-lock.yaml
 bun.lockb
 yarn.lock
 package-lock.json
+
+.npmrc
